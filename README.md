@@ -6,6 +6,8 @@ This project utilizes a Convolutional Neural Network (CNN) to classify waste int
 # Download the dataset from Kaggle
 !kaggle datasets download -d alistairking/recyclable-and-household-waste-classification
 
+## LINK
+https://waste-classification-cnn.streamlit.app/
 
 ## Key Features
 
