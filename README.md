@@ -2,6 +2,11 @@
 
 This project utilizes a Convolutional Neural Network (CNN) to classify waste into four categories: **Biodegradable, Non-Biodegradable, Trash, or Hazardous**. The model is designed to assist in waste management by automating the classification process, making it easier to sort and recycle waste effectively.
 
+## Dataset
+# Download the dataset from Kaggle
+!kaggle datasets download -d alistairking/recyclable-and-household-waste-classification
+
+
 ## Key Features
 
 - **Model Loading**: The model is loaded using a cached function to improve performance.
@@ -49,10 +54,10 @@ This project utilizes a Convolutional Neural Network (CNN) to classify waste int
 
 ## File Structure
 
-- [app.py](http://_vscodecontentref_/1): Contains the Streamlit app code.
-- [main.py](http://_vscodecontentref_/2): Contains the model loading, image preprocessing, and prediction functions.
-- [model](http://_vscodecontentref_/3): Directory to store the trained model file (`40.pth`).
-- [README.md](http://_vscodecontentref_/4): Project documentation.
+- [app.py](http://_vscodecontentref_/0): Contains the Streamlit app code.
+- [main.py](http://_vscodecontentref_/1): Contains the model loading, image preprocessing, and prediction functions.
+- [model](http://_vscodecontentref_/2): Directory to store the trained model file (`40.pth`).
+- [README.md](http://_vscodecontentref_/3): Project documentation.
 
 ## Model Training
 
@@ -64,4 +69,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.# Waste-Classification-
+This project is licensed under the MIT License. See the LICENSE file for details.
