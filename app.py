@@ -18,7 +18,7 @@ st.write("""
 This project utilizes a Convolutional Neural Network (CNN) to classify waste into four categories: **Biodegradable, Non-Biodegradable, Trash, or Hazardous**. The model is designed to assist in waste management by automating the classification process, making it easier to sort and recycle waste effectively.
 
 
-### Resourse:
+### Resource:
 - **Data-Set**:"kaggle datasets download -d alistairking/recyclable-and-household-waste-classification".
 
 ### Key Features:
